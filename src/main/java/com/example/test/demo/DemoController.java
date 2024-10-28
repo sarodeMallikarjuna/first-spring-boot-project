@@ -10,7 +10,7 @@ public class DemoController {
 
     @GetMapping
     public String home() {
-        return "Welcome to Demo home page";
+        return "Welcome to Demo home page ";
     }
 
 }
